@@ -68,9 +68,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Gmail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
@@ -92,9 +92,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -148,20 +148,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'The X Files',
+					link: 'https://tidal.com/browse/playlist/046de517-3a0b-4685-a87b-a4a8ba86320a',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Powfu Collection',
+					link: 'https://tidal.com/browse/playlist/cff19ce8-5553-4bea-bfb0-ddbcadaa92e3',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Absolute Units',
+					link: 'https://tidal.com/browse/playlist/5ed18f18-cded-4139-a041-3e22c186d269',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Anime Bops',
+					link: 'https://tidal.com/browse/playlist/da36c131-6016-4c3d-bfa4-ad3b629421c1',
 				},
 			],
 		},
@@ -170,20 +170,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Licklithium',
+					link: 'https://licklithium.org/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Jellyseerr',
+					link: 'https://jellyseerr.licklithium.org/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'NZBget',
+					link: 'https://licklithium.org/nzbget',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Cockpit',
+					link: 'https://cockpit.licklithium.org/',
 				},
 			],
 		},
